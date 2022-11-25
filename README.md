@@ -1,5 +1,5 @@
-# xyi-java
-java zaebala meni pochla naxyi
+# java information about this link
+java information about this link
 package artmocoder;
 
 import sun.net.ftp.FtpClient;
